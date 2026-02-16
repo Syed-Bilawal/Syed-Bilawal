@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Syed-Bilawal
-- 👀 I’m interested in programing and aslo using microsoft office
-- 🌱 I’m currently learning Mobile App devolpment in flutter
-- 💞️ I’m looking to collaborate on some new projects
-- 📫 How to reach you can email me in shahb7599@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💫 About Me:
+👋 About Me<br><br>Flutter Developer with 2+ years of experience building scalable, high-performance mobile applications from idea to production.<br><br>💡 Expertise:<br>- Flutter & Dart<br>- State Management: GetX, BLoC, Provider<br>- Firebase (Auth, Firestore, Storage, FCM)<br>- REST API Integration<br>- SQLite & Local Storage<br>- Local & Push Notifications<br>- Subscription & Payment Gateway Integration<br>- App Publishing on Google Play Store & Apple App Store<br><br>I focus on clean architecture, smooth UI/UX, and writing maintainable production-ready code.<br><br>🌱 Currently Learning:<br>- Advanced App Architecture & Scalable Systems<br>- Performance Optimization<br>- Backend & System Design Concepts<br><br>🤝 Open to:<br>- Collaboration on Flutter projects<br>- Contributing to open-source<br>- Freelance & remote opportunities<br>- Building innovative mobile solutions<br><br>⚡ Fun Fact:<br>I enjoy transforming complex app ideas into structured, scalable systems — and I love refining UI details until everything feels perfectly smooth.<br>
 
-<!---
-Syed-Bilawal/Syed-Bilawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/syedshahbi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-shah-bilawal-2841b1384/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Syed Shah Bilawal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahb7599@gmail.com) 
+
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Syed-Bilawal&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Syed-Bilawal&theme=aura&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Bilawal&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Syed-Bilawal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
